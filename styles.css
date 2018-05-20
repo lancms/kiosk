@@ -1,0 +1,28 @@
+TABLE TD {
+       border-right: #003366 thin solid;
+       border-left: #003366 thin solid;
+       border-top: #003366 thin solid;
+       border-bottom: #003366 thin solid;
+
+}
+
+
+BODY {
+	background-color: #CCCCCC;
+	color: #000000;
+}
+
+BODY A {
+	color: red;
+}
+
+
+.viktig_info {
+	font-size: 72pt;
+	color: red;
+}
+
+.total_kurv {
+	font-size: 72pt;
+	color: red;
+}

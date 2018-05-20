@@ -1,0 +1,12 @@
+Her er min aldri så lille TODO-liste over hva jeg vil ha inn i kiosksystemet.
+
+-Eksport til partyweb (prisliste, hvor mye pizza/varmmat som er ferdiglaget)
+-alarmklokke for komfyren
+-Menyer
+
+
+
+
+
+Ønsket men nedprioritert
+-Ascii-porn-generator
